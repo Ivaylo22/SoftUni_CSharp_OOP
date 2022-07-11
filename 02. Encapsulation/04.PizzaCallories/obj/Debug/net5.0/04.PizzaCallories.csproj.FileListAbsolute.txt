@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\bin\Debug\net5.0\04.PizzaCallories.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\bin\Debug\net5.0\04.PizzaCallories.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\bin\Debug\net5.0\04.PizzaCallories.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\bin\Debug\net5.0\04.PizzaCallories.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\bin\Debug\net5.0\04.PizzaCallories.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\bin\Debug\net5.0\04.PizzaCallories.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\04.PizzaCallories.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\04.PizzaCallories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\04.PizzaCallories.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\04.PizzaCallories.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\04.PizzaCallories.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\04.PizzaCallories.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\refint\04.PizzaCallories.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\04.PizzaCallories.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\04.PizzaCallories.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\04.PizzaCallories\obj\Debug\net5.0\ref\04.PizzaCallories.dll

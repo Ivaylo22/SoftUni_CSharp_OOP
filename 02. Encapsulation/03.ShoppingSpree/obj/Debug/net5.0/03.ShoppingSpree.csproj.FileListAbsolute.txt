@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\bin\Debug\net5.0\03.ShoppingSpree.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\bin\Debug\net5.0\03.ShoppingSpree.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\bin\Debug\net5.0\03.ShoppingSpree.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\bin\Debug\net5.0\03.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\bin\Debug\net5.0\03.ShoppingSpree.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\bin\Debug\net5.0\03.ShoppingSpree.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\03.ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\03.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\03.ShoppingSpree.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\03.ShoppingSpree.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\refint\03.ShoppingSpree.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\03.ShoppingSpree.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\03.ShoppingSpree.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\03.ShoppingSpree\obj\Debug\net5.0\ref\03.ShoppingSpree.dll
