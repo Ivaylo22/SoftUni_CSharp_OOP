@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\bin\Debug\net5.0\05.FootballTeamGenerator.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\bin\Debug\net5.0\05.FootballTeamGenerator.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\bin\Debug\net5.0\05.FootballTeamGenerator.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\bin\Debug\net5.0\05.FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\bin\Debug\net5.0\05.FootballTeamGenerator.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\bin\Debug\net5.0\05.FootballTeamGenerator.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\05.FootballTeamGenerator.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\05.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\05.FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\05.FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\05.FootballTeamGenerator.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\refint\05.FootballTeamGenerator.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\05.FootballTeamGenerator.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\05.FootballTeamGenerator.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\02. Encapsulation\05.FootballTeamGenerator\obj\Debug\net5.0\ref\05.FootballTeamGenerator.dll
