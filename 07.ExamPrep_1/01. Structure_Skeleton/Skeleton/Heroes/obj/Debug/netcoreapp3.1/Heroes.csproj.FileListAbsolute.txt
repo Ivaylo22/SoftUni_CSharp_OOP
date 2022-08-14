@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\07.ExamPrep_1\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
