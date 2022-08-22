@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\BookingApp.exe
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\User\OneDrive\Desktop\SoftUni\SoftUni - Advanced\C# OOP\010.FinalExam\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache
