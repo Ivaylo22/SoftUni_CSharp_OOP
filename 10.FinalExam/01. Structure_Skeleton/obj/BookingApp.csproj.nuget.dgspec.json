@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Desktop\\SoftUni\\SoftUni - Advanced\\C# OOP\\010.FinalExam\\01. Structure_Skeleton (1)\\BookingApp.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Desktop\\Studying\\SoftUni\\SoftUni - Advanced\\C# OOP\\10.FinalExam\\01. Structure_Skeleton\\BookingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Desktop\\SoftUni\\SoftUni - Advanced\\C# OOP\\010.FinalExam\\01. Structure_Skeleton (1)\\BookingApp.csproj": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\Studying\\SoftUni\\SoftUni - Advanced\\C# OOP\\10.FinalExam\\01. Structure_Skeleton\\BookingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\SoftUni\\SoftUni - Advanced\\C# OOP\\010.FinalExam\\01. Structure_Skeleton (1)\\BookingApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\Studying\\SoftUni\\SoftUni - Advanced\\C# OOP\\10.FinalExam\\01. Structure_Skeleton\\BookingApp.csproj",
         "projectName": "BookingApp",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\SoftUni\\SoftUni - Advanced\\C# OOP\\010.FinalExam\\01. Structure_Skeleton (1)\\BookingApp.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Studying\\SoftUni\\SoftUni - Advanced\\C# OOP\\10.FinalExam\\01. Structure_Skeleton\\BookingApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\SoftUni\\SoftUni - Advanced\\C# OOP\\010.FinalExam\\01. Structure_Skeleton (1)\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\Studying\\SoftUni\\SoftUni - Advanced\\C# OOP\\10.FinalExam\\01. Structure_Skeleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
